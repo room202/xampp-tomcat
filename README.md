@@ -51,7 +51,15 @@ JavaSoft\Java Development Kit\
 
 ![](images/002.png)
 
-### コンパイルコマンド
+### フォルダ構成
+
+- Servletの保存先
+
+```
+C:\xampp\tomcat\webapps
+```
+
+### Servletコンパイルコマンド
 
 ```bash
 javac -classpath C:\xampp\tomcat\lib\servlet-api.jar HelloWorld.java
