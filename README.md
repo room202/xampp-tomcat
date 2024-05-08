@@ -56,7 +56,13 @@ JavaSoft\Java Development Kit\
 - Servletの保存先
 
 ```
-C:\xampp\tomcat\webapps
+C:\xampp\tomcat\webapps\sample
+```
+
+- URL
+
+```
+http://localhost:8080/sample/
 ```
 
 ### Servletコンパイルコマンド
