@@ -50,3 +50,9 @@ JavaSoft\Java Development Kit\
 値のデータ : C:\java
 
 ![](images/002.png)
+
+### コンパイルコマンド
+
+```bash
+javac -classpath C:\xampp\tomcat\lib\servlet-api.jar HelloWorld.java
+```
